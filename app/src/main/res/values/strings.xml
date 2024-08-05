@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wmart</string>
+    <string name="empty_msg">No countries found, check back again later</string>
+    <string name="error_msg">An error occurred getting countries.  Try Again</string>
+</resources>
